@@ -7,7 +7,7 @@ import Home from "./src/views/Home";
 import NewClient from "./src/views/NewClient";
 import Details from "./src/views/Details";
 import AppBar from "./src/components/AppBar";
-import styles from "./src/generalStyles";
+import styles from "./src/styles";
 import { screenOptions } from "./src/theme";
 
 const Stack = createStackNavigator();
